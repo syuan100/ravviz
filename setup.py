@@ -9,7 +9,7 @@ setup(
         "flask-sqlalchemy==2.4.4"
     ],
     dependency_links=[
-        "https://github.com/ravenprotocol/ravcom.git",
-        "https://github.com/ravenprotocol/ravcom.git"
+        "https://github.com/ravenprotocol/ravcom.git@0.1-alpha",
+        "https://github.com/ravenprotocol/ravop.git@0.1-alpha"
     ]
 )
